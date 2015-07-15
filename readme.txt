@@ -1,2 +1,2 @@
-Git is a version control system.
-wxx is a bad guy.
+Git is a distributed version control system.
+Git is free software.
